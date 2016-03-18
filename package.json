@@ -1,0 +1,19 @@
+{
+  "name": "@marvelapp/jquery.visible",
+  "version": "1.0.0",
+  "description": "The altered version of jQuery.visible that adds extra wiggleRoom param",
+  "main": "jquery.visible.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvelapp/jquery.visible.git"
+  },
+  "author": "Jolyon Russ <jolyonruss@gmail.com> (http://www.jolyonruss.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marvelapp/jquery.visible/issues"
+  },
+  "homepage": "https://github.com/marvelapp/jquery.visible#readme"
+}
