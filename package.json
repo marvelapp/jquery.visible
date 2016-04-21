@@ -1,5 +1,5 @@
 {
-  "name": "@marvelapp/jquery.visible",
+  "name": "jquery.visible",
   "version": "1.0.0",
   "description": "The altered version of jQuery.visible that adds extra wiggleRoom param",
   "main": "jquery.visible.js",
